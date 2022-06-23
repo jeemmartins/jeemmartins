@@ -1,16 +1,16 @@
-### Olá 👋, meu nome é Jéssica!
-
+<h2 align='center'> Olá 👋, meu nome é Jéssica!</h2>
+<h5 align='center'>👩‍💻 Aspirante a mina Dev.</h5>
 <hr />
 
-👩‍💻 Aspirante a mina Dev.
 
-👩‍🎓 Atualmente estudando na área de Desenvolvimento Back-end.
+
+🌱 Estudante com foco na área de Desenvolvimento Back-end.
 
 🌆 Bauru-SP 
 <br> 
 🎂 27y
 <br>
-🏫 (UNINOVE) Universidade Nove de Julho 
+👩‍🎓 Estudante de Bando de Dados - (UNINOVE) Universidade Nove de Julho 
 
 <a href="www.linkedin.com/in/jeemmartinsti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br>
 
