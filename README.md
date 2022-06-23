@@ -8,7 +8,7 @@
 
 🌆 Bauru-SP 
 <br> 
-🎂 28y
+🎂 27y
 <br>
 🏫 (UNINOVE) Universidade Nove de Julho 
 
