@@ -10,14 +10,14 @@
 <br> 
 🎂 27y
 <br>
-👩‍🎓(Loading..) Tecnóloga em Bando de Dados - (UNINOVE) Universidade Nove de Julho 
+👩‍🎓(Loading...) Tecnóloga em Banco de Dados - (UNINOVE) Universidade Nove de Julho 
 
 <a target="_blank" href="https://www.linkedin.com/in/jeemmartinsti/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
  <hr />    
-Algumas Skill que estou dando o sangue 💪: <br />
+Algumas Skills que estou dando o sangue 💪: <br />
 <br />
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
