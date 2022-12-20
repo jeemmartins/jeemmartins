@@ -10,6 +10,8 @@
 <br> 
 🎂 27y
 <br>
+🔭 Atualmente estou trabalhando na Aktie Now, como Serviço Gerenciado (SG)
+<br>
 👩‍🎓(Loading...) Tecnóloga em Banco de Dados - (UNINOVE) Universidade Nove de Julho 
 
 <a target="_blank" href="https://www.linkedin.com/in/jeemmartinsti/">
