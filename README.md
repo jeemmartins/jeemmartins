@@ -8,7 +8,7 @@
 
 🌆 Bauru-SP 
 <br> 
-🎂 27y
+🎂 28y
 <br>
 🔭 Atualmente estou trabalhando na Aktie Now, como Serviço Gerenciado (SG)
 <br>
