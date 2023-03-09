@@ -12,7 +12,9 @@
 <br>
 🔭 Atualmente estou trabalhando na Aktie Now, como Serviço Gerenciado (SG)
 <br>
-👩‍🎓(Loading...) Tecnóloga em Banco de Dados - (UNINOVE) Universidade Nove de Julho 
+👩‍🎓(Loading...) Tecnóloga em Banco de Dados - (UNINOVE) Universidade Nove de Julho
+<br>
+👩‍🎓(Loading...) Desenvolvedor Full Stack - (Senac) Escola Técnica de Bauru
 
 <a target="_blank" href="https://www.linkedin.com/in/jeemmartinsti/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
