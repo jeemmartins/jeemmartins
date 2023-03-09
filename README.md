@@ -4,7 +4,7 @@
 
 
 
-🌱 Estudante com foco na área de Desenvolvimento Back-end.
+🌱 Estudante com foco na área de Desenvolvimento Full Stack.
 
 🌆 Bauru-SP 
 <br> 
