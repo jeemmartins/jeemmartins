@@ -8,15 +8,12 @@
 
 🌆 Bauru-SP 
 <br> 
-🎂 28y
+🎂 29y
 <br>
-🔭 Atualmente estou trabalhando na Aktie Now, como Serviço Gerenciado (SG)
+👩‍🎓Tecnóloga em Banco de Dados - (UNINOVE) Universidade Nove de Julho
 <br>
-👩‍🎓(Loading...) Tecnóloga em Banco de Dados - (UNINOVE) Universidade Nove de Julho
+🔭 Atualmente estou trabalhando na Aktie Now, na área de Serviço Gerenciado (SG)
 <br>
-👩‍🎓(Finish) Desenvolvedor Full Stack - (Senac) Escola Técnica de Bauru
-<br>
-👩‍🎓(Loading...) Desenvolvedor Back end - (Escola DNC)
 
 <a target="_blank" href="https://www.linkedin.com/in/jeemmartinsti/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
